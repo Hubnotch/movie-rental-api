@@ -1,0 +1,29 @@
+{
+  "name": "movie-rental-api",
+  "version": "1.0.0",
+  "description": "A movie rental api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hubnotch/movie-rental-api.git"
+  },
+  "keywords": [
+    "api",
+    "movie",
+    "rental",
+    "api"
+  ],
+  "author": "Ugwuanyi Ekene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hubnotch/movie-rental-api/issues"
+  },
+  "homepage": "https://github.com/Hubnotch/movie-rental-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^13.1.0"
+  }
+}
